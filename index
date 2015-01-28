@@ -7,7 +7,6 @@
 	<link rel="stylesheet" href="http://openlayers.org/en/v3.0.0/css/ol.css" type="text/css">
         <script src="./OpenLayers.js"></script>
 	<script src="./jquery.js"></script>
-    <!-- <script language="javascript" type="text/javascript" src="js/flot/jquery.flot.pie.pack.js"></script> -->
     <script>
     function init() {
 	//OpenLayers.ProxyHost = "/proxy.jsp?url=";
